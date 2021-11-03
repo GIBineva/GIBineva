@@ -34,13 +34,6 @@
 <br><br><br><br><br><br><br>
  
 <hr>
-  
-<div align="center">
-
-# Mindset is what separates the best from the rest!
-
-</div>
-
 
 <br />
 
