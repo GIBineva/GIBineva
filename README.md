@@ -21,8 +21,8 @@
 <details>	
   <summary>:page_with_curl: <b>Github Status:</b></summary>
 
-![Grade](https://github-readme-stats.vercel.app/api?username=gibineva20&show_icons=true&theme=radical&count_private=true)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gibineva20&show_icons=true&hide_border=true&layout=compact&count_private=true&count_fork=true)
+![Grade](https://github-readme-stats.vercel.app/api?username=gibineva&show_icons=true&theme=radical&count_private=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gibineva&show_icons=true&hide_border=true&layout=compact&count_private=true&count_fork=true)
 </details>
 
 <details>
