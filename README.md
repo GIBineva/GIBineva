@@ -27,8 +27,8 @@
 <details>
   <summary>:name_badge: <b>Badges</b></summary>
 
-<code><a href ="https://www.credly.com/earner/earned/badge/6012dd93-5c97-4f6c-a130-292e9f61733f"><img alt="Word Office 2016" width="200px" src="https://images.credly.com/size/340x340/images/fd092703-61db-4e9f-9c7c-2211d44ca87d/MOS_Word.png" ></a></code>
-<code><a href ="https://www.credly.com/earner/earned/badge/51f3d81a-190e-46a3-ad6f-500878bfe688"><img alt="HTML and CSS" width="200px" src="https://images.credly.com/size/340x340/images/241488f4-9110-41aa-804e-51a8f8ba430d/MTA-Introduction_to_Programming_Using_HTML_and_CSS-600x600.png" ></a></code>
+<code><a href ="https://www.credly.com/earner/earned/badge/6012dd93-5c97-4f6c-a130-292e9f61733f"><img alt="Word Office 2016" width="50px" src="https://images.credly.com/size/340x340/images/fd092703-61db-4e9f-9c7c-2211d44ca87d/MOS_Word.png" ></a></code>
+<code><a href ="https://www.credly.com/earner/earned/badge/51f3d81a-190e-46a3-ad6f-500878bfe688"><img alt="HTML and CSS" width="50px" src="https://images.credly.com/size/340x340/images/241488f4-9110-41aa-804e-51a8f8ba430d/MTA-Introduction_to_Programming_Using_HTML_and_CSS-600x600.png" ></a></code>
 </details>  
 
 <br><br><br><br><br><br><br>
