@@ -1,8 +1,7 @@
 # Hello here! 🖐 I'm Gergana Bineva 📌
 
 ## About me: 
-- I’m currently learning HTML5 & CSS3, C#, JavaScript and C++ 
-- Pronouns: She/Them
+- I’m currently learning HTML5 & CSS3, C#, JavaScript and C++.
 - Reach me: GIBineva20@codingburgas.bg
 
 <br />
