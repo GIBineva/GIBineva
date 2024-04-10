@@ -1,37 +1,57 @@
-# Hello here! 🖐 I'm Gergana Bineva 📌
+# Hello here! ⋆ I'm Gergana Bineva ๋࣭ ⭑⚝
 
 ## About me: 
-- I’m currently learning HTML5 & CSS3, C#, JavaScript and C++.
+- I’m currently learning in VSCPI.
+- I'm very creative and have great ideas.
+- I can draw and edit but also code.
 - Reach me: GIBineva20@codingburgas.bg
 
 <br />
-
+<hr>
 <br />
 
-## 🔧 Languages and Tools:
-<p>
+## ➤ Coding tools I can work with: ⋆.˚:
+<p>   
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="Html" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="Css" height="40" style="vertical-align:top; margin:4px">
+<img src="https://code-institute-org.github.io/Full-Stack-Web-Developer-Stream-0/assets/javascript.png" alt="JavaScript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="C++" height="40" style="vertical-align:top; margin:4px">
+<img src="https://miro.medium.com/v2/resize:fit:1400/1*_NVBTVdmjt3Qvq3CZOySXg.png" alt="C#" height="40" style="vertical-align:top; margin:4px">
+  
 </p>
 <br />
 
+## ➤ Drawing/Design tools I can work with : ˚୨୧⋆｡˚
+<p>   
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Calligrakrita-base.svg" alt="krita" height="40" style="vertical-align:top; margin:4px">
+<img src="https://play-lh.googleusercontent.com/8e4_oZqTz-L1xdz-eYfDp58LN4Z77kbTwKnvmWUI0Cg5s3mmEOtQ4et0f4sDqHzhHkF9" alt="Medibang" height="40" style="vertical-align:top; margin:4px">
+<img src="https://ibispaintxapp.com/images/uploads/2021-10-01/Icon-oqxjf.png" alt="IbisPaintX" height="40" style="vertical-align:top; margin:4px">
+<img src="https://carmentune.com/wp-content/uploads/Canva-logo.png" alt="Canva" height="40" style="vertical-align:top; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/640px-Adobe_Photoshop_CC_icon.svg.png" alt="Photoshop" height="40" style="vertical-align:top; margin:4px">
+  
+</p>
+<br />
+
+## ➤ Editing and Animating tools I can work with :  ʚɞ
+<p>   
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/Flipaclip-logo_5.png" alt="FlippaClip" height="40" style="vertical-align:top; margin:4px">
+<img src="https://www.wizcase.com/wp-content/uploads/2022/08/CapCut-app-Logo-Transparent.png" alt="CapCut" height="40" style="vertical-align:top; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/1200px-Adobe_After_Effects_CC_icon.svg.png" alt="JavaScript" height="40" style="vertical-align:top; margin:4px">
+  
+</p>
+<br />
 
 <details>	
-  <summary> <b>🏹Github Status:</b></summary>
-
-![Grade](https://github-readme-stats.vercel.app/api?username=gibineva&show_icons=true&theme=radical&count_private=true)
+  <summary> <b> 🌐 Some of my best Github projects: </b></summary>
+  <br />
+  https://github.com/GIBineva/CATRAVEL.git
+  <br />
 </details>
-
-<details>
-  <summary> <b>🏅Badges</b></summary>
-
-<code><a href ="https://www.credly.com/earner/earned/badge/6012dd93-5c97-4f6c-a130-292e9f61733f"><img alt="Word Office 2016" width="100px" src="https://images.credly.com/size/340x340/images/fd092703-61db-4e9f-9c7c-2211d44ca87d/MOS_Word.png" ></a></code>
-<code><a href ="https://www.credly.com/earner/earned/badge/51f3d81a-190e-46a3-ad6f-500878bfe688"><img alt="HTML and CSS" width="100px" src="https://images.credly.com/size/340x340/images/241488f4-9110-41aa-804e-51a8f8ba430d/MTA-Introduction_to_Programming_Using_HTML_and_CSS-600x600.png" ></a></code>
-</details>
+<br />
+<br />
 <hr>
 
 <br />
 
 ## Hope we can collaborate soon! Have a nice daay and stay safe!
-![Alt Text](https://blog.sciencemuseum.org.uk/wp-content/uploads/2017/10/Pacman.gif)
+![Alt Text](https://i.pinimg.com/originals/8f/a0/18/8fa0180e7f07c6c1013777d6f6eac7d4.gif)
