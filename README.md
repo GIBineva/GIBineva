@@ -14,9 +14,12 @@
 <p>   
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="Html" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="Css" height="40" style="vertical-align:top; margin:4px">
-<img src="https://code-institute-org.github.io/Full-Stack-Web-Developer-Stream-0/assets/javascript.png" alt="JavaScript" height="40" style="vertical-align:top; margin:4px">
+<img src="https://code-institute-org.github.io/Full-Stack-Web-Developer-Stream-0/assets/javascript.png" alt="JavaScript" height="30" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="C++" height="40" style="vertical-align:top; margin:4px">
 <img src="https://miro.medium.com/v2/resize:fit:1400/1*_NVBTVdmjt3Qvq3CZOySXg.png" alt="C#" height="40" style="vertical-align:top; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/1200px-Visual_Studio_Icon_2022.svg.png" alt="VisualStudio" height="40" style="vertical-align:top; margin:4px">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlz7MfGconfQJ-fj49N59t_5U_eZY6W4L4o3kZF9OHMg&s" alt="VisualStudioCode" height="40" style="vertical-align:top; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/08/JetBrains_beam_logo.svg/1200px-JetBrains_beam_logo.svg.png" alt="JetBrains" height="40" style="vertical-align:top; margin:4px">
   
 </p>
 <br />
